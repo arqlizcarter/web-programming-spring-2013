@@ -3,4 +3,6 @@ web-programming-spring-2013
 
 SRJC CS53.11B Section 5250
 
-This is a template repository for Santa Rosa Junior College students.    Clone this repository into your account 
+Hi professor. I updated my page,add some CCS3 here is the link. I'm not sure how to remove the h2tag ( Please fill the form) after submiting.
+
+Have a great day!!!

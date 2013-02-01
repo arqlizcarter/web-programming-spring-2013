@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	
+	background: #999;
+}
+section {
+	height: 400px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	background: #FFF;
+	padding-top: 20px;
+	
+}
+form {
+	background: #CCC;
+	margin-right: auto;
+	margin-left: auto;
+	height: 300px;
+	width: 400px;
+	margin-top: 20px;
+	padding-top: 20px;
+	padding-right: 20px;
+	-moz-border-radius: 10px;
+     border-radius: 5px;
+	box-shadow: 10px 10px 5px #888;
+	-moz-box-shadow: 10px 10px 5px #888;
+-webkit-box-shadow: 10px 10px 5px #888;
+box-shadow: 10px 10px 5px #888;
+}
+h2 {
+	margin-right: 20px;
+	padding-left: 40px;
+}
+section img {
+	padding-left: 40px;
+}
